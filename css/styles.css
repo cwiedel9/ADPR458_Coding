@@ -117,3 +117,9 @@
   max-width: 900px;
   padding-block: 60px;
  }
+
+ .contact-form {
+  padding: 30px;
+  border-radius: 30px;
+  background-color: #f9f9f9;
+ }
